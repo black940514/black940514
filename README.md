@@ -13,12 +13,13 @@
 
 ## 🧑‍💻 About Me
 
-> **Production-Ready AI Solutions** for Computer Vision & Time-Series Analysis
+안녕하세요! 컴퓨터 비전과 시계열 분석을 다루는 AI 엔지니어입니다.
 
-- 🔭 **Currently Working On:** VLM Applications, Industrial Anomaly Detection
-- 🌱 **Learning:** LLM Agents, Advanced MLOps
-- 💡 **Specialties:** Vision-Language Models, Segmentation, Time-Series Anomaly Detection
-- 🎯 **Goal:** Bridging Research and Production in AI/ML
+이미지가 말을 하고, 숫자들 속에서 이상 신호를 찾아내는 일에 푹 빠져 있어요. 요즘은 Vision-Language Model로 이미지와 텍스트를 연결하는 작업과 산업 현장의 이상 탐지 시스템을 만들고 있습니다.
+
+Segmentation으로 픽셀 하나하나를 분류하고, 시계열 데이터에서 패턴을 읽어내는 게 제일 재밌습니다. 최근에는 LLM Agent와 MLOps에도 관심을 갖고 공부 중이에요.
+
+**"연구실에서 나와 현장에서 돌아가는 AI"** - 이게 제 목표입니다.
 
 ---
 
