@@ -1,177 +1,68 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=black940514&color=4C8EDA&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/black940514?style=flat-square&color=4C8EDA&label=Followers)](https://github.com/black940514?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=black940514&color=4C8EDA&style=flat-square&label=Views)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=kimtaeyoun&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20|%20VLM%20|%20Segmentation%20|%20Anomaly%20Detection&descAlignY=55&descSize=18)
+# kimtaeyoun
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4C8EDA&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer+%7C+Vision-Language+Models;Semantic+Segmentation+%7C+Instance+Segmentation;Time-Series+Anomaly+Detection+Specialist;Building+Production-Ready+AI+Solutions)](https://git.io/typing-svg)
+**AI Engineer** · Computer Vision · ITS
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-안녕하세요! ITS(지능형교통시스템) 분야에서 컴퓨터 비전을 다루는 AI 엔지니어입니다.
+ITS(지능형교통시스템) 분야에서 영상 분석 업무를 하고 있습니다.
 
-**🚗 회사에서는** 도로 위 차량 영상을 분석하는 일을 합니다. 번호판이 흐릿하게 찍혀도 차량을 식별해내는 Re-ID 시스템, 교통 CCTV 영상 보정, 도로 네트워크 토폴로지 분석 같은 프로젝트를 진행하고 있어요. Vector DB로 수만 대 차량 중에서 같은 차를 찾아내는 게 요즘 가장 재밌는 작업입니다.
-
-**🎮 퇴근 후에는** 강화학습으로 게임 AI 만드는 걸 좋아해요. PPO로 SWF 게임을 학습시키는 프로젝트도 하고 있고, Transformer부터 DETR까지 논문 읽는 것도 취미입니다. 언젠간 대학원에서 더 깊이 연구해보고 싶어요.
-
-**"도로 위 데이터에서 인사이트를 뽑아내는 것"** - 제가 제일 잘하고 싶은 일입니다.
+회사에서는 차량 Re-ID, 영상 보정, 도로 토폴로지 분석 등을 담당하고 있고, 개인적으로는 강화학습이랑 논문 읽는 걸 좋아합니다. 언젠가 대학원 가서 제대로 연구해보고 싶다는 생각을 하고 있어요.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech
+
+**Vision**: PyTorch, OpenCV, YOLO, Segmentation, Re-ID, Vector DB
+
+**LLM**: LangChain, RAG, Claude, OpenAI
+
+**Infra**: Docker, FastAPI, MLflow
+
+---
+
+## Projects
+
+### 업무 관련
+
+| Project | Description |
+|---------|-------------|
+| [MOT-Algorithm-Study](https://github.com/black940514/MOT-Algorithm-Study) | Multi-Object Tracking 6개 알고리즘 비교 연구 (22개 실험) |
+| [ai-code-mentor](https://github.com/black940514/ai-code-mentor) | Claude Code Skill - Anthropic Skills PR 시도 |
+| [chatbot_project](https://github.com/black940514/chatbot_project) | 스마트스토어 RAG 챗봇 |
+| [multimodal_vision](https://github.com/black940514/multimodal_vision) | VLM 실험 모음 |
+
+### 개인 프로젝트
+
+| Project | Description |
+|---------|-------------|
+| [game_rl](https://github.com/black940514/game_rl) | PPO로 SWF 게임 학습시키기 |
+| [tistory_writer](https://github.com/black940514/tistory_writer) | AI 논문 리뷰 자동 포스팅 |
+| [upbit_black](https://github.com/black940514/upbit_black) | 업비트 자동매매 시스템 |
+| [wanted-crawler](https://github.com/black940514/wanted-crawler) | Docker 기반 크롤러 템플릿 |
+| [python-backjoon](https://github.com/black940514/python-backjoon) | 알고리즘 문제 풀이 |
+
+---
+
+## Stats
 
 <div align="center">
 
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### AI/ML & Computer Vision
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### LLM & RAG
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### MLOps & Development
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=black940514&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=black940514&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Contact
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Code Mentor
-**Claude Code Skill - Anthropic Skills PR**
-
-AI 생성 코드의 "왜"를 설명하는 교육용 스킬. Line-by-line 분석, Quiz, Break-it 테스트 등 6가지 분석 모드 제공
-
-`Claude Code` `Anthropic Skills` `LLM` `Developer Tools`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/black940514/ai-code-mentor)
-[![PR](https://img.shields.io/badge/Anthropic-Skills_PR-CC785C?style=flat&logo=anthropic)](https://github.com/anthropics/skills)
-
-</td>
-<td width="50%">
-
-### 🎯 MOT-Algorithm-Study
-**Multi-Object Tracking 비교 연구**
-
-6개 추적 알고리즘, 22개 실험을 통한 체계적 성능 분석
-
-`ByteTrack` `DeepSORT` `StrongSORT` `OCSORT` `BoTSORT` `MOTRv2`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/black940514/MOT-Algorithm-Study)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💬 Emotion Chatbot
-**멀티모달 감정 상담 챗봇**
-
-텍스트 + 이미지 기반 감정 인식 및 상담 AI
-
-`Multimodal` `Emotion Recognition` `LLM`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/black940514/emotion_chatbot)
-
-</td>
-<td width="50%">
-
-### 🛒 RAG Chatbot
-**네이버 스마트스토어 RAG 챗봇**
-
-상품 정보 기반 RAG 파이프라인 구축
-
-`RAG` `LangChain` `Vector DB` `FastAPI`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/black940514/chatbot_project)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👁️ Multimodal Vision
-**멀티모달 스마트비전 프로젝트**
-
-다양한 Vision-Language 모델 실험
-
-`VLM` `CLIP` `Image Captioning`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/black940514/multimodal_vision)
-
-</td>
-<td width="50%">
-
-### 🎨 Picture Object Detection
-**아동 심리 그림 분석**
-
-아동 그림에서 객체 탐지를 통한 심리 분석
-
-`YOLO` `Object Detection` `Psychology`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/black940514/picture_objectdetection)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=black940514&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8EDA&icon_color=4C8EDA" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=black940514&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8EDA" width="49%" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=black940514&theme=tokyonight&hide_border=true&background=0D1117&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA)](https://git.io/streak-stats)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=black940514&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4C8EDA&line=4C8EDA&point=FFFFFF)](https://github.com/black940514)
-
-</div>
-
----
-
-## 📫 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-black940514-181717?style=for-the-badge&logo=github)](https://github.com/black940514)
-[![Blog](https://img.shields.io/badge/Tistory-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ty-analyst.tistory.com/)
-[![Email](https://img.shields.io/badge/Email-xodus4352@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:xodus4352@naver.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
-
-</div>
+- Blog: [ty-analyst.tistory.com](https://ty-analyst.tistory.com/)
+- Email: xodus4352@naver.com
