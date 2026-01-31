@@ -40,14 +40,14 @@ ITS(지능형교통시스템) 분야에서 영상 분석 업무를 하고 있습
 |---------|-------------|
 | [its-maintenance](https://github.com/black940514/its-maintenance) | ITS 장비 고장 예측 및 RUL 예측 (LightGBM, WTTE-RNN) |
 | [MOT-Algorithm-Study](https://github.com/black940514/MOT-Algorithm-Study) | Multi-Object Tracking 6개 알고리즘 비교 연구 (22개 실험) |
-| [ai-code-mentor](https://github.com/black940514/ai-code-mentor) | Claude Code Skill - Anthropic Skills PR 시도 |
-| [chatbot_project](https://github.com/black940514/chatbot_project) | 스마트스토어 RAG 챗봇 |
-| [multimodal_vision](https://github.com/black940514/multimodal_vision) | VLM 실험 모음 |
 
 ### 개인 프로젝트
 
 | Project | Description |
 |---------|-------------|
+| [ai-code-mentor](https://github.com/black940514/ai-code-mentor) | Claude Code Skill - Anthropic Skills PR |
+| [chatbot_project](https://github.com/black940514/chatbot_project) | 스마트스토어 RAG 챗봇 |
+| [multimodal_vision](https://github.com/black940514/multimodal_vision) | VLM 실험 모음 |
 | [game_rl](https://github.com/black940514/game_rl) | PPO로 SWF 게임 학습시키기 |
 | [tistory_writer](https://github.com/black940514/tistory_writer) | AI 논문 리뷰 자동 포스팅 |
 | [upbit_black](https://github.com/black940514/upbit_black) | 업비트 자동매매 시스템 |
