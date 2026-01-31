@@ -1,5 +1,8 @@
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=black940514&color=4C8EDA&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/black940514?style=flat-square&color=4C8EDA&label=Followers)](https://github.com/black940514?tab=followers)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=kimtaeyoun&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20|%20VLM%20|%20Segmentation%20|%20Anomaly%20Detection&descAlignY=55&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4C8EDA&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer+%7C+Vision-Language+Models;Semantic+Segmentation+%7C+Instance+Segmentation;Time-Series+Anomaly+Detection+Specialist;Building+Production-Ready+AI+Solutions)](https://git.io/typing-svg)
@@ -29,27 +32,43 @@ class AIEngineer:
         return "Building production-ready VLM & Anomaly Detection solutions"
 ```
 
+<div align="center">
+
+| 🔭 Currently Working On | 🌱 Learning | 💬 Ask Me About | 📫 Reach Me |
+|:----------------------:|:-----------:|:---------------:|:-----------:|
+| VLM & RAG Applications | LLM Agents | Computer Vision | [Email](mailto:xodus4352@naver.com) |
+| Industrial Anomaly Detection | MLOps | Time-Series Analysis | [Blog](https://ty-analyst.tistory.com/) |
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages & Frameworks**
+### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**AI/ML Tools**
+### AI/ML & Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### LLM & RAG
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### MLOps & Development
+
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-**Development**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -151,6 +170,8 @@ AI 생성 코드의 "왜"를 설명하는 교육용 스킬. Line-by-line 분석,
 <img src="https://github-readme-stats.vercel.app/api?username=black940514&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8EDA&icon_color=4C8EDA" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black940514&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8EDA" width="49%" />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=black940514&theme=tokyonight&hide_border=true&background=0D1117&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA)](https://git.io/streak-stats)
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=black940514&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4C8EDA&line=4C8EDA&point=FFFFFF)](https://github.com/black940514)
 
 </div>
@@ -174,4 +195,3 @@ AI 생성 코드의 "왜"를 설명하는 교육용 스킬. Line-by-line 분석,
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
 
 </div>
-
