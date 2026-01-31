@@ -38,6 +38,7 @@ ITS(지능형교통시스템) 분야에서 영상 분석 업무를 하고 있습
 
 | Project | Description |
 |---------|-------------|
+| [ai-vehicle-reid](https://github.com/black940514/ai-vehicle-reid) | ITS 차량 재식별 시스템 (FastReID, OpenVINO, FAISS) |
 | [its-maintenance](https://github.com/black940514/its-maintenance) | ITS 장비 고장 예측 및 RUL 예측 (LightGBM, WTTE-RNN) |
 | [MOT-Algorithm-Study](https://github.com/black940514/MOT-Algorithm-Study) | Multi-Object Tracking 6개 알고리즘 비교 연구 (22개 실험) |
 
