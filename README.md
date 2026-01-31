@@ -13,33 +13,12 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "김태연 (kimtaeyoun)"
-        self.role = "AI Engineer"
-        self.language_spoken = ["ko_KR", "en_US"]
+> **Production-Ready AI Solutions** for Computer Vision & Time-Series Analysis
 
-    def expertise(self):
-        return {
-            "Vision-Language Models": ["CLIP", "BLIP", "LLaVA", "Multimodal RAG"],
-            "Segmentation": ["Semantic", "Instance", "Panoptic", "SAM"],
-            "Anomaly Detection": ["Time-Series", "Industrial Defect", "Unsupervised"],
-            "Computer Vision": ["Object Detection", "Multi-Object Tracking"]
-        }
-
-    def current_focus(self):
-        return "Building production-ready VLM & Anomaly Detection solutions"
-```
-
-<div align="center">
-
-| 🔭 Currently Working On | 🌱 Learning | 💬 Ask Me About | 📫 Reach Me |
-|:----------------------:|:-----------:|:---------------:|:-----------:|
-| VLM & RAG Applications | LLM Agents | Computer Vision | [Email](mailto:xodus4352@naver.com) |
-| Industrial Anomaly Detection | MLOps | Time-Series Analysis | [Blog](https://ty-analyst.tistory.com/) |
-
-</div>
+- 🔭 **Currently Working On:** VLM Applications, Industrial Anomaly Detection
+- 🌱 **Learning:** LLM Agents, Advanced MLOps
+- 💡 **Specialties:** Vision-Language Models, Segmentation, Time-Series Anomaly Detection
+- 🎯 **Goal:** Bridging Research and Production in AI/ML
 
 ---
 
