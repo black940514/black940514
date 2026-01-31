@@ -150,7 +150,7 @@ AI 생성 코드의 "왜"를 설명하는 교육용 스킬. Line-by-line 분석,
 <img src="https://github-readme-stats.vercel.app/api?username=black940514&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8EDA&icon_color=4C8EDA" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black940514&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8EDA" width="49%" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=black940514&theme=tokyonight&hide_border=true&background=0D1117&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=black940514&theme=tokyonight&hide_border=true&background=0D1117&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA)](https://git.io/streak-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=black940514&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4C8EDA&line=4C8EDA&point=FFFFFF)](https://github.com/black940514)
 
